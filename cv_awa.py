@@ -23,10 +23,10 @@ st.write("**2025 - Présent :Formation en Géomatique**")
 
 # COMPETENCES TECHNIQUES
 st.header(" Compétences")
-st.write("-Programmation (Python)")
+st.write("-Programmation (Python ,Pandas / Geopandas)")
 st.write("-Technique de Base de la Géographie(QGIS, ArcGIS)")
 st.write("-Topographie(Excel)")
-st.write("-Base de Donnée(Pandas / Geopandas,PostGIS,PostGres)")
+st.write("-Base de Donnée(PostGIS,PostGres)")
 st.write("-Cartographie(Excel,QGIS)")
 
 # PROJETS ACADEMIQUES
